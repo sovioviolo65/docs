@@ -17,8 +17,7 @@
             "group": "Proiect",
             "pages": [
               "index",
-              "ceph",
-              "development"
+              "ceph"
             ]
           },
           {
