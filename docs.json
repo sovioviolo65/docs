@@ -7,7 +7,7 @@
     "light": "#ff9900",
     "dark": "#9B1E9B"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/Group15.png",
   "navigation": {
     "tabs": [
       {
@@ -86,10 +86,6 @@
         }
       ]
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [],
